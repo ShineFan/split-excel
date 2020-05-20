@@ -1,9 +1,10 @@
 # split-excel
-request 
+## request 
 
-pip install -r requirements.txt
+> pip install -r requirements.txt
 
-usage
+## usage
 
-python main.py $file $groupColumnIndex
-eg. python main.py source.xls 1
+> python main.py $file $groupColumnIndex
+
+> eg. python main.py source.xls 1
